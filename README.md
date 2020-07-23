@@ -8,7 +8,7 @@ Apart from my normal work, I am also passionate about OSS and side projects. I b
 
 Now I am contributing [Chatwoot](https://www.chatwoot.com/)- Open source customer support tool.
 
-### My GitHub stats
+#### My GitHub stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=muhsin-k&show_icons=true)
 
