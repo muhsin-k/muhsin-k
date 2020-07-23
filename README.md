@@ -1,6 +1,6 @@
 ### Hola 👋, I am [Muhsin Keloth](https://muhzi.com/)
 
-I am a <del>Full Stack Developer</del> Problem solver from India.
+I am a <del>Full Stack Developer</del> Problem solver.
 
 A good team worker always looking for challenging problems to solve. I work mainly in javascript technologies like **React**, **React Native**, **Electron**, **NodeJS** and some of the other libraries, and technologies related to them.
 
