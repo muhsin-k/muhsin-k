@@ -6,7 +6,7 @@ A good team worker always looking for challenging problems to solve. I work main
 
 Apart from my normal work, I am also passionate about OSS and side projects. I built [GitX](http://gitxapp.com/) and [Dataclump](https://www.dataclump.io/).
 
-Now I am contributing [Chatwoot](https://www.chatwoot.com/)- Open source customer support tool.
+Now I am contributing to [Chatwoot](https://www.chatwoot.com/)- Open source customer support tool.
 
 #### You can also find me on
 
