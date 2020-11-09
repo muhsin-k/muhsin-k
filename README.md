@@ -1,4 +1,4 @@
-### Hola 👋, I am [Muhsin Keloth](https://muhzi.com/)
+### Hola 👋, I am [Muhsin Keloth](https://muhsin-k.github.io/)
 
 I am a <del>Full Stack Developer</del> Problem solver.
 
