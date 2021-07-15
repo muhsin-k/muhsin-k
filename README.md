@@ -2,7 +2,7 @@
 
 I am a <del>Full Stack Developer</del> Problem solver.
 
-A good team worker always looking for challenging problems to solve. I work mainly in javascript technologies like **React**,**Vue** **React Native**, **Electron**, **NodeJS** and some of the other libraries, and technologies related to them.
+A good team worker always looking for challenging problems to solve. I work mainly in javascript technologies like **React**,**Vue**, **React Native**, **Electron**, **NodeJS** and some of the other libraries, and technologies related to them.
 
 Apart from my normal work, I am also passionate about OSS and side projects. I built [GitX](http://gitxapp.com/) and [Dataclump](https://www.dataclump.io/).
 
